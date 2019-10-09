@@ -1,0 +1,25 @@
+#header .custum-nav{
+	background-color:#005199 !important;
+}
+#header a{
+	padding: 20px;
+	color: white !important;
+}
+#galery{
+	margin-bottom: 20px;
+}
+#contact{
+	background-color: #ececec;
+	border-radius: 50px;
+	padding: 20px 0px;	
+}
+footer{
+	background: #005191;
+	margin-top: 10px;
+}
+footer p{
+	color: white;
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+}
